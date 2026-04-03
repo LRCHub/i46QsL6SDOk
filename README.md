@@ -1,0 +1,24 @@
+# KAT-TUN – Love yourself ～君が嫌いな君が好き～
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+When the night takes on the sky
+And the clouds cover star light
+Teary eyes flowing inside of the hearts
+Whose love has died
+*
+Real love doesn't have to end
+Love again
+Choose love again
+First you gotta love yourself
+Real love doesn't have to end
+Love again
+It comes again
+But first you gotta love yourself
+In the night, no need to lie
+When you hear yourself just right
+What if I follow my heart
+To a love that lasts for life
+*Repeat
+```
