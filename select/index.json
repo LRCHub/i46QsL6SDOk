@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "Love yourself ～君が嫌いな君が好き～",
+  "base_artist": "KAT-TUN",
+  "createdAt": "2026-04-03T05:53:10.222845Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Love Yourself",
+      "artist": "Blue Six",
+      "has_synced": false,
+      "path": "select/01_Love_Yourself_Blue_Six.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Love Yourself",
+      "artist": "PHASES",
+      "has_synced": true,
+      "path": "select/02_Love_Yourself_PHASES.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Love Yourself",
+      "artist": "Scott Bradlee's Postmodern Jukebox feat. Sara Niemietz",
+      "has_synced": true,
+      "path": "select/03_Love_Yourself_Scott_Bradlee's_Postmodern_Jukebox_feat._Sara_Niemietz.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Love Yourself",
+      "artist": "Justin Bieber",
+      "has_synced": true,
+      "path": "select/04_Love_Yourself_Justin_Bieber.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Love Yourself",
+      "artist": "Justin Bieber",
+      "has_synced": true,
+      "path": "select/05_Love_Yourself_Justin_Bieber.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Love Yourself",
+      "artist": "ピョートル(Vo. J R Price)",
+      "has_synced": false,
+      "path": "select/06_Love_Yourself_ピョートル(Vo._J_R_Price).txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Love Yourself",
+      "artist": "Justin Bieber",
+      "has_synced": true,
+      "path": "select/07_Love_Yourself_Justin_Bieber.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Love Yourself",
+      "artist": "Anthony Keyrouz",
+      "has_synced": true,
+      "path": "select/08_Love_Yourself_Anthony_Keyrouz.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "love yourself (interlude)",
+      "artist": "XXXTENTACION",
+      "has_synced": true,
+      "path": "select/09_love_yourself_(interlude)_XXXTENTACION.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Love You More Than You Love Yourself",
+      "artist": "Austra",
+      "has_synced": true,
+      "path": "select/10_I_Love_You_More_Than_You_Love_Yourself_Austra.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Let Me Love You (Until You Learn To Love Yourself)",
+      "artist": "Ne-Yo",
+      "has_synced": true,
+      "path": "select/11_Let_Me_Love_You_(Until_You_Learn_To_Love_Yourself)_Ne-Yo.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Love Yourself",
+      "artist": "赤西仁",
+      "has_synced": false,
+      "path": "select/pl_01_Love_Yourself_赤西仁.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Love Yourself",
+      "artist": "赤西仁",
+      "has_synced": false,
+      "path": "select/pl_02_Love_Yourself_赤西仁.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Love Yourself",
+      "artist": "赤西仁",
+      "has_synced": false,
+      "path": "select/pl_03_Love_Yourself_赤西仁.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Love Yourself",
+      "artist": "赤西仁",
+      "has_synced": false,
+      "path": "select/pl_04_Love_Yourself_赤西仁.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Love yourself～君が嫌いな君が好き～",
+      "artist": "赤西仁",
+      "has_synced": false,
+      "path": "select/pl_05_Love_yourself~君が嫌いな君が好き~_赤西仁.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "Love yourself-君が嫌いな君が好き-",
+      "artist": "赤西仁",
+      "has_synced": false,
+      "path": "select/pl_06_Love_yourself-君が嫌いな君が好き-_赤西仁.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "Love yourself ～君が嫌いな君が好き～",
+      "artist": "赤西仁",
+      "has_synced": false,
+      "path": "select/pl_07_Love_yourself_~君が嫌いな君が好き~_赤西仁.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "LOVE YOURSELF ～君が嫌いな君が好き～",
+      "artist": "赤西仁",
+      "has_synced": false,
+      "path": "select/pl_08_LOVE_YOURSELF_~君が嫌いな君が好き~_赤西仁.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "LOVE YOURSELF 〜君が嫌いな君が好き〜",
+      "artist": "赤西仁",
+      "has_synced": false,
+      "path": "select/pl_09_LOVE_YOURSELF_〜君が嫌いな君が好き〜_赤西仁.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "Love yourself ～君が嫌いな君が好き～",
+      "artist": "赤西仁",
+      "has_synced": false,
+      "path": "select/pl_10_Love_yourself_~君が嫌いな君が好き~_赤西仁.txt"
+    }
+  ]
+}
